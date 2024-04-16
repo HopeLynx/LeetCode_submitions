@@ -1,0 +1,10 @@
+class Solution {
+public:
+    int theMaximumAchievableX(int num, int t) {
+        return num + t + t;
+    }
+};
+
+
+# Runtime: 0 ms Beats 100.00% of users with C++
+# Memory Usage: 8.27 MB Beats 73.39% of users with Python3

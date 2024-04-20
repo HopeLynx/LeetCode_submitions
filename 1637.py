@@ -10,5 +10,5 @@ class Solution:
                 max = real_points[i] - real_points[i - 1]
         return max
 
-# Runtime: 677 ms Beats 73.82% of users with Python3
-# Memory Usage: 58.98 MB Beats 74.22% of users with Python3
+# Runtime: 677 ms Beats 79.39% of users with Python3
+# Memory Usage: 58.98 MB Beats 77.90% of users with Python3

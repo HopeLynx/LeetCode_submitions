@@ -38,5 +38,5 @@ var cancellable = function(fn, args, t) {
  *  }, maxT + 15)
  */
 
-// Runtime: 63 ms Beats 67.43% of users with Python3
-// Memory Usage: 49.08 MB Beats 87.74% of users with Python3
+// Runtime: 63 ms Beats 67.43% of users with JavaScript
+// Memory Usage: 49.08 MB Beats 87.74% of users with JavaScript
